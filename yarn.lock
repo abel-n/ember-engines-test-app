@@ -5210,12 +5210,13 @@ ember-destroyable-polyfill@^2.0.3:
     ember-cli-babel "^7.26.6"
     ember-cli-htmlbars "^5.7.1"
 
-"ember-engines-test-engine@github:abel-n/ember-engines-test-engine#8bf9b86":
+"ember-engines-test-engine@github:abel-n/ember-engines-test-engine#83efcec":
   version "0.0.0"
-  resolved "https://codeload.github.com/abel-n/ember-engines-test-engine/tar.gz/8bf9b8686c87b69eefdc1adbd9c0a384be0e3dbb"
+  resolved "https://codeload.github.com/abel-n/ember-engines-test-engine/tar.gz/83efcecb9f9dd5dcc557ce88a8c50a90ac2e756c"
   dependencies:
     ember-cli-babel "^7.26.6"
     ember-cli-htmlbars "^5.7.1"
+    ember-engines-test-addon "github:abel-n/ember-engines-test-addon#301c1a1"
 
 ember-engines@^0.8.20:
   version "0.8.20"
